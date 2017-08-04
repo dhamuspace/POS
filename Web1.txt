@@ -1,4 +1,8 @@
 1
+<<<<<<< HEAD
 
 
 adding 3rd line from laptop
+=======
+adding second line from web
+>>>>>>> 51a6819119d95d58d90b7d47cd28254694edd20e
